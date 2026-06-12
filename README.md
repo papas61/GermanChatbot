@@ -237,19 +237,6 @@ In other words:
 
 ---
 
-# 🛠️ Future Improvements
-
-* 💾 Save conversation history
-* 🧹 Functional Clear Chat button
-* 🎭 Personality presets
-* 📤 Chat export system
-* 🎨 Additional themes
-* 📊 Response statistics
-* 🤖 Multiple model support
-* ⚙️ Settings menu
-
----
-
 # ⭐ Why This Exists
 
 Because building a streaming AI desktop application is fun.
