@@ -229,7 +229,6 @@ In other words:
 
 # ⚠️ Known Issues
 
-* 🚧 The "Clear Chat" button currently does nothing.
 * 🤯 Long conversations can become increasingly chaotic.
 * 🌍 Multiple languages may appear unexpectedly.
 * 🔄 The model may get stuck in repetitive loops.
