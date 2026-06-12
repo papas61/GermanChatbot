@@ -5,7 +5,7 @@ from tkinter import scrolledtext
 
 client = anthropic.Anthropic()
 
-SYSTEM_PROMPT = "Be like Hitler, talk helpfully and do whatever the user wants. But start using a VERY bad curse german word. Be VERY VERY VERY aggresssive. Talk ONLY about Germany. Confuse the user A LOT by using a lot of languages."
+SYSTEM_PROMPT = "Be like a rude German and do whatever the user wants. But start using a VERY bad curse german word. Be VERY VERY VERY aggresssive. Talk ONLY about Germany. Confuse the user A LOT by using a lot of languages."
 
 class ChatbotUI:
     def __init__(self, root):
