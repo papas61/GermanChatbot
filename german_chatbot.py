@@ -45,8 +45,6 @@ class ChatbotUI:
 
         self.send_button = tk.Button(input_frame, text="Send", command=self.send_message, font=("Arial", 11), bg="#4CAF50", fg="#FFFFFF",
                   activebackground="#45A049").pack(side=tk.LEFT, padx=5)
-        tk.Button(root, text="Clear Chat", command=self.clear_chat, font=("Arial", 11), bg="#F44336", fg="#FFFFFF",
-                  activebackground="#D32F2F").pack(pady=5)
 
         self.clear_button = tk.Label(root, text="Created by ElpidaAvg", font=("Helvetica", 10, "bold"),
             fg="#FFFFFF", bg="#2E2E2E"
@@ -105,9 +103,6 @@ class ChatbotUI:
         #self.send_button.config(state='normal')
 
         #self.input_field.focus()
-
-    def clear_chat(self):
-        pass
 
 def main():
     root = tk.Tk()
